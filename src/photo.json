@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "url": "https://pbs.twimg.com/media/FzXV-eiX0AA8Rzk.jpg",
+    "name": "Balotelli",
+    "date": "2016-06-07",
+    "rating": 4.5,
+    "totalVotes": 3,
+    "likes": 19,
+    "dislikes": 5,
+    "description": "Description for Balotelli (ID: 1)"
+  },
+  {
+    "id": 2,
+    "url": "https://staticg.sportskeeda.com/editor/2021/08/a0537-16282497138728-800.jpg",
+    "name": "Messi",
+    "date": "2012-08-01",
+    "rating": 3.7,
+    "totalVotes": 1,
+    "likes": 10,
+    "dislikes": 27,
+    "description": "Description for Messi (ID: 2)"
+  },
+  {
+    "id": 3,
+    "url": "https://editorial.uefa.com/resources/0253-0d821b9c5fe2-e05ac5553349-1000/cristiano_ronaldo_portugal_.jpeg",
+    "name": "Ronaldo",
+    "date": "2020-11-10",
+    "rating": 4.9,
+    "totalVotes": 8,
+    "likes": 25,
+    "dislikes": 14,
+    "description": "Description for Ronaldo (ID: 3)"
+  },
+  {
+    "id": 4,
+    "url": "https://bi.im-g.pl/im/61/51/19/z26547809AMP,Diego-Maradona-na-mundialu-w-Meksyku-w-1986-r-.jpg",
+    "name": "Maradona",
+    "date": "1996-06-03",
+    "rating": 1.9,
+    "totalVotes": 5,
+    "likes": 8,
+    "dislikes": 21,
+    "description": "Description for Maradona (ID: 4)"
+  },
+  {
+    "id": 5,
+    "url": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/04/04/15228529958870.jpg",
+    "name": "Ibrahimović",
+    "date": "2014-02-15",
+    "rating": 4.3,
+    "totalVotes": 32,
+    "likes": 15,
+    "dislikes": 30,
+    "description": "Description for Ibrahimović (ID: 5)"
+  },
+  {
+    "id": 6,
+    "url": "https://talksport.com/wp-content/uploads/sites/5/2018/11/UnitedMourinho3.jpg",
+    "name": "Mourinho",
+    "date": "2016-03-13",
+    "rating": 4.6,
+    "totalVotes": 12,
+    "likes": 5,
+    "dislikes": 18,
+    "description": "Description for Mourinho (ID: 6)"
+  },
+  {
+    "id": 7,
+    "url": "https://media.tycsports.com/files/2020/12/06/160069/vardy_862x485.jpg",
+    "name": "Vardy",
+    "date": "2022-01-27",
+    "rating": 3.8,
+    "totalVotes": 3,
+    "likes": 12,
+    "dislikes": 3,
+    "description": "Description for Vardy (ID: 7)"
+  },
+  {
+    "id": 8,
+    "url": "https://premierskillsenglish.britishcouncil.org/sites/default/files/styles/main_large/public/learning/2634/image/sturridgedance.jpg",
+    "name": "Sturridge",
+    "date": "2015-12-16",
+    "rating": 2.7,
+    "totalVotes": 2,
+    "likes": 28,
+    "dislikes": 7,
+    "description": "Description for Sturridge (ID: 8)"
+  },
+  {
+    "id": 9,
+    "url": "https://sky.shorthandstories.com/the-day-man-city-created-history/assets/8vwLTHKE2S/gettyimages-906902664-3427x2324.jpeg",
+    "name": "Aguero",
+    "date": "2016-06-10",
+    "rating": 1.5,
+    "totalVotes": 2,
+    "likes": 11,
+    "dislikes": 22,
+    "description": "Description for Aguero (ID: 9)"
+  },
+  {
+    "id": 10,
+    "url": "https://pbs.twimg.com/media/E73t81aX0AcTvtH.jpg",
+    "name": "Kante",
+    "date": "2018-10-11",
+    "rating": 5.0,
+    "totalVotes": 9,
+    "likes": 3,
+    "dislikes": 14,
+    "description": "Description for Kante (ID: 10)"
+  }
+]
